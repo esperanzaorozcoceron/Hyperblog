@@ -1,4 +1,4 @@
-# Hyperblog :tw-1f49c: :tw-1f49c: :tw-1f49c: :tw-1f49c:
+# Hyperblog :purple_heart: 💜
 Un blog  increible que vengo desarrollando para el curso de  [Git y Github ](http://https://platzi.com/clases/git-github/ "Git y Github ")de [platzi](https://platzi.com "platzi")
 
 >El curso de Git y Github de Platzi es lo que me hace falta para triplicar mi salario y lanzarme al increible mundo aplicado de la sociologia cibernitca  y el Machine Learning
