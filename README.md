@@ -12,5 +12,6 @@ En este curso he puesto en practica lo siguiente:
 - Las personalidades multiples del profe Freddy
 - Creado por el increible platzi team
 - Incluye ejemplos en Windows, Linux y Mac
+- Dispoble para todas las edades
 
 Y como un amable recordatorio **Este readme.md es solo un ejercicio del curso**. Diseñado para el ejemplo. Si has llegado hasta aca debes tener en cuenta que NO DEBES TOMARLO ENSERIO  y mejor sigamos escuchando las magicas rolas de la **[Britney.](https://www.youtube.com/watch?v=rMqayQ-U74s "Britney.")**
